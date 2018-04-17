@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        self.title = "Rupesh 1"
+        self.title = "Rupesh 2"
         // Do any additional setup after loading the view, typically from a nib.
     }
 
