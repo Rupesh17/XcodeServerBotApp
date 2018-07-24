@@ -1,6 +1,9 @@
 # XcodeServerBotApp
 A sample project to achive CI/CD by integrating XcodeServer and Xcode Server bot.
 
+&nbsp; 
+&nbsp; 
+
 ## Installation
 Installation by cloning the repository
 * Go to directory.
@@ -9,6 +12,7 @@ Installation by cloning the repository
 * Press run icon in Xcode or command + R to run the project on Simulator.
 * Configure Server Bot to achive CI/CD.
  
+ &nbsp; 
 
 ## Xcode Server
 Xcode Server is used for CI/CD. Xcode server bots post script will be used to trigger fastlane lane if you want to integrate fastlane for Build deployment. We canrun them using terminal also.
@@ -30,4 +34,27 @@ To run fastlane lanes configure PATH in XcodeServer Bot configuration under envi
 
 PATH="/usr/local/bin:$PATH"
 
-   
+&nbsp; 
+&nbsp; 
+
+## License
+
+Copyright (c) 2018 Rupesh Kumar
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
